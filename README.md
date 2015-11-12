@@ -16,7 +16,7 @@ List Of Most Have Command Line Interface For Geeks To Make Life Easy.
 
 
 
-OPTIONS:
+Options:
 
 ```-c  --config```    Path to yml file with config defaults (defaults to ~/.cfcli.yml
 
@@ -35,6 +35,8 @@ OPTIONS:
 ```-t  --type```      Type of record (for dns record functions)
 
 ```-l  --ttl```       Set ttl on add or edit (120 - 86400 seconds, or 1 for auto)
+
+Commands:  ```addrecords | devmode on/off | disablecf | editrecord | listdomains | listrecords | purgecache | purgefile | removerecord```
 
 
 
