@@ -84,8 +84,7 @@ Support Services:
 
 Optional Arguments:
 
-
-    ```--share``` |    ```--list``` | ```--source IP``` |  ```--timeout ``` | ``` --secure (https)```
+```--share```|```--list```|```--source IP```|```--timeout ```|``` --secure (https)```
 
 
 
