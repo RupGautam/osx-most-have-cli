@@ -37,6 +37,7 @@ Options:
 ```-l  --ttl```       Set ttl on add or edit (120 - 86400 seconds, or 1 for auto)
 
 Commands: 
+
 ```addrecords``` | ```devmode on/off``` | ```disablecf``` | ```editrecord``` | ```listdomains``` | ```listrecords``` | ```purgecache``` | ```purgefile``` | ```removerecord```
 
 
@@ -83,11 +84,10 @@ Support Services:
 
 Optional Arguments:
 
-*     ```--share```
-*     ```--list```
-*     ```--source IP```
-*     ```--timeout ```
-*    ``` --secure (https)```
+
+    ```--share``` |    ```--list``` | ```--source IP``` |  ```--timeout ``` | ``` --secure (https)```
+
+
 
 ====== 
 
