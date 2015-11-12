@@ -23,21 +23,22 @@ List Of Most Have Command Line Interface For Geeks To Make Life Easy.
 
 
 Usage: 
+
  ```- ssh```
 
  ```- create```
        
 ```- destroy```
        
-- restart
+```- restart```
        
-- snapshot
+```- snapshot```
        
-- resize 
+```- resize``` 
        
-- images
+```- images```
        
-- regions 
+```- regions``` 
        
        
 Other Options: [digitalocean-cli](https://www.npmjs.com/package/digitalocean-cli) and [doctl](https://github.com/digitalocean/doctl)
