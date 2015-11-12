@@ -1,5 +1,5 @@
-# osx-most-have-cli
-OSX List Of Most Have Command Line Interface For Geeks
+# Most have OSX cli tools.
+List Of Most Have Command Line Interface For Geeks
 
 
 ## Domains
