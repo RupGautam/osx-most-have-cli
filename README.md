@@ -34,7 +34,8 @@ Support Services:
 - Rackspace Cloud Files   ~ list/create/update/delete/upload/download etc.
 - Rackspace Cloud Networks ~ list/create/update/delete/porting/security-updates etc. 
 - Rackspace Block Storage  ~ list/create/update/delete/snapshot(list/create/delete/get)
-- Rackspace Cloud Orchestration. ~
+- Rackspace Cloud Orchestration. ~ Buildinfo/stack (list/create/update/delete/get-template) etc. 
+- learn more: https://developer.rackspace.com/docs/rack-cli/services/
 
 
 
