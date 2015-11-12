@@ -50,23 +50,8 @@ Commands:  ```addrecords | devmode on/off | disablecf | editrecord | listdomains
 
 Usage: 
 
- ```- ssh```
+ ```- ssh``` | ```- create``` | ```- destroy``` | ```- restart``` | ```- snapshot``` | ```- resize``` | ```- images``` | ```- regions``` 
 
- ```- create```
-       
-```- destroy```
-       
-```- restart```
-       
-```- snapshot```
-       
-```- resize``` 
-       
-```- images```
-       
-```- regions``` 
-       
-       
 Other Options: [digitalocean-cli](https://www.npmjs.com/package/digitalocean-cli) and [doctl](https://github.com/digitalocean/doctl)
 
 
