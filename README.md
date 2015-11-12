@@ -14,6 +14,30 @@ List Of Most Have Command Line Interface For Geeks To Make Life Easy.
 
 - Manage domain records from command line, edit/add/delete A/NS/MX etc without login to Cloudflare. 
 
+
+
+OPTIONS:
+
+```-c  --config```    Path to yml file with config defaults (defaults to ~/.cfcli.yml
+
+```-k  --token```     Token for your cloudflare account
+
+```-e  --email```     Email of your cloudflare account
+
+```-u  --account```   Choose one of your named cloudflare accounts from .cfcli.yml
+
+```-d  --domain```    Domain to operate on
+
+```-a  --activate```  Activate cloudflare after creating record (for addrecord)
+
+```-f  --format```    Format when printing records (csv or table)
+
+```-t  --type```      Type of record (for dns record functions)
+
+```-l  --ttl```       Set ttl on add or edit (120 - 86400 seconds, or 1 for auto)
+
+
+
 ======
 :heavy_check_mark: Digitalocean - [https://github.com/pearkes/tugboat] 
 
