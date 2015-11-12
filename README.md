@@ -37,5 +37,15 @@ Support Services:
 - Rackspace Cloud Orchestration. ~ Buildinfo/stack (list/create/update/delete/get-template) etc. 
 - learn more: https://developer.rackspace.com/docs/rack-cli/services/
 
+====== 
+
+:heavy_check_mark: SpeedTest Cli - [https://github.com/sivel/speedtest-cli]
+
+![](https://i.imgur.com/Z05NUSA.png)
+
+
+====== 
+
+
 
 
