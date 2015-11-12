@@ -43,8 +43,16 @@ Support Services:
 
 ![](https://i.imgur.com/Z05NUSA.png)
 
+Optional Arguments:
+
+*     ```--share```
+*     ```--list```
+*     ```--source IP```
+*     ```--timeout ```
+*    ``` --secure (https)```
 
 ====== 
+
 
 
 
