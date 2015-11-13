@@ -1,10 +1,10 @@
 # Most Have OSX CLI Tools.
 List Of Most Have Command Line Interface For Geeks To Make Life Easy.
 
-#################################################################################
+###############################################################################
 
 ======
-:heavy_check_mark: CloudFlare - [https://www.npmjs.com/package/cloudflare-cli] 
+:heavy_check_mark: CloudFlare - [https://www.npmjs.com/package/cloudflare-cli]
 
 
 
@@ -12,7 +12,7 @@ List Of Most Have Command Line Interface For Geeks To Make Life Easy.
 
 
 
-- Manage domain records from command line, edit/add/delete A/NS/MX etc without login to Cloudflare. 
+- Manage domain records from command line, edit/add/delete A/NS/MX etc without login to Cloudflare.
 
 
 
@@ -36,23 +36,23 @@ Options:
 
 ```-l  --ttl```       Set ttl on add or edit (120 - 86400 seconds, or 1 for auto)
 
-Commands: 
+Commands:
 
 ```addrecords``` | ```devmode on/off``` | ```disablecf``` | ```editrecord``` | ```listdomains``` | ```listrecords``` | ```purgecache``` | ```purgefile``` | ```removerecord```
 
 
 
 ======
-:heavy_check_mark: Digitalocean - [https://github.com/pearkes/tugboat] 
+:heavy_check_mark: Digitalocean - [https://github.com/pearkes/tugboat]
 
 
 ![](https://i.imgur.com/lEMeHDI.png)
 
 
 
-Usage: 
+Usage:
 
- ```- ssh``` | ```- create``` | ```- destroy``` | ```- restart``` | ```- snapshot``` | ```- resize``` | ```- images``` | ```- regions``` 
+ ```- ssh``` | ```- create``` | ```- destroy``` | ```- restart``` | ```- snapshot``` | ```- resize``` | ```- images``` | ```- regions```
 
 Other Options: [digitalocean-cli](https://www.npmjs.com/package/digitalocean-cli) and [doctl](https://github.com/digitalocean/doctl)
 
@@ -60,7 +60,7 @@ Other Options: [digitalocean-cli](https://www.npmjs.com/package/digitalocean-cli
 ======
 
 
-:heavy_check_mark: Godaddy - [https://github.com/wkoszek/godaddycli] - Not Working for me. 
+:heavy_check_mark: Godaddy - [https://github.com/wkoszek/godaddycli] - Not Working for me.
 
 ======
 
@@ -76,7 +76,7 @@ Support Services:
 - Rackspace Cloud Orchestration. ~ ```Buildinfo/stack (list/create/update/delete/get-template) etc. ```
 - learn more: https://developer.rackspace.com/docs/rack-cli/services/
 
-====== 
+======
 
 :heavy_check_mark: SpeedTest Cli - [https://github.com/sivel/speedtest-cli]
 
@@ -88,9 +88,7 @@ Optional Arguments:
 
 
 
-====== 
+======
 
 
-# Will Add More..... 
-
-
+### Will Add More in coming days.
